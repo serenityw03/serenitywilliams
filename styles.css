@@ -1,11 +1,12 @@
 h1 {
   color:purple;
 }
-.container {background-color: grey;
+.container {background-color: white;
 }
 body {background-color: Turquoise;
 }
 .navbar li{
   display: inline;
+  float: right;
   background-image: url()
 }
