@@ -7,7 +7,6 @@ body {background-color: Turquoise;
 }
 .navbar li{
   display: inline;
-  float: right;
   background-image: url()
 }
 
