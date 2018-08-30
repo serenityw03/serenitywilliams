@@ -12,9 +12,15 @@ body {background-color: Turquoise;
 
 .login {
   float: right;
-  curser: pointer;
 }
 
-.login:active {
-
+.login a {
+  curser: pointer;
+  margin-right: 30px;
+  padding: 8px 10px;
+  border: 1px solid #204156;
+  position: relative;
+}
+.login a:active {
+top: 5px;
 }
