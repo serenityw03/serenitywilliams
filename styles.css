@@ -8,7 +8,7 @@ body {background-color: Turquoise;
 .navbar {
   background-image: url("Google purple rain for Prince.gif");
   background-color: white;
-  float: right;
+  float: inline
 }
 
 
@@ -19,6 +19,7 @@ body {background-color: Turquoise;
   padding: 8px 10px;
   border: 1px solid #204156;
   position: relative;
+  float: right;
 }
 .login a:active {
 top: 5px;
