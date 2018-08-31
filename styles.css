@@ -8,11 +8,10 @@ body {background-color: Turquoise;
 .navbar {
   background-image: url("Google purple rain for Prince.gif");
   background-color: white;
-}
-
-.login {
   float: right;
 }
+
+
 
 .login a:hover {
   curser: pointer;
