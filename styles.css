@@ -14,7 +14,7 @@ body {background-color: Turquoise;
   float: right;
 }
 
-.login a {
+.login a:hover {
   curser: pointer;
   margin-right: 30px;
   padding: 8px 10px;
