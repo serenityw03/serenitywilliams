@@ -8,9 +8,12 @@ body {background-color: Turquoise;
 .navbar {
   background-image: url("https://goo.gl/images/QX6TwK");
   background-color: white;
-  display: inline;
+
 }
 
+.navbar li {
+  display: inline;
+}
 
 
 .login a:hover {
