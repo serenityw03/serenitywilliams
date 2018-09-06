@@ -8,7 +8,7 @@ body {background-color: Turquoise;
 .navbar {
   background-image: url("https://goo.gl/images/QX6TwK");
   background-color: white;
-  float: inline
+  display: inline;
 }
 
 
