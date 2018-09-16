@@ -3,7 +3,9 @@ h1 {
 }
 .container {background-color: lavender;
 }
-body {background-color: Turquoise;
+body {
+  background-color: Turquoise;
+  background-image: url("https://binged.it/2D3YZDU");
 }
 .navbar {
   background-image: url("https://goo.gl/images/QX6TwK");
@@ -27,3 +29,7 @@ body {background-color: Turquoise;
 .login a:active {
 top: 5px;
 }
+
+
+
+.
